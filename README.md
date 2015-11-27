@@ -4,7 +4,7 @@ Certificates from professional development and online classes.
 
 ## Data Science
 
- * MIT Professional Education - Tackling the Challenges of Big Data
+ * [`MIT Professional Education - Tackling the Challenges of Big Data`](MITProfessionalEducation-TacklingTheChallengesOfBigData.pdf)
  * MIT EdX - Introduction to Computer Science and Programming Using Python
  * Stanford Cousera - Machine Learning
  * Stanford On-line - Introduction to Statistical Learning
